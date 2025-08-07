@@ -1,3 +1,16 @@
+# Changelog for version 2.2.9
+
+## Fixed
+
+- Fixed TRP3_ITEM_USED event not properly sending the item ID is the item was consumed after use.
+- Fixed an issue with popups from patch 11.2.
+
+# Changelog for version 2.2.8
+
+## Fixed
+
+- Fixed right-click on stashes map pins not working.
+
 # Changelog for version 2.2.7
 
 ## Fixed
